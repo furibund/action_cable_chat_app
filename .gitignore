@@ -24,3 +24,6 @@
 /spring/*.pid
 
 .DS_Store
+
+# Ignore sublime prj conf files
+*.sublime-*
